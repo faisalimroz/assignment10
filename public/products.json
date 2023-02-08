@@ -1,0 +1,12 @@
+[
+
+    {"name": "Marks Powder","price" :200,"weight" :"500gm","description":"fjkh" ,"img": "https://i.ibb.co/4Pqbqh4/image-32.png" },
+    {"name": "Oil","price" :100,"weight" :"2kg","description":"fgdg" ,"img": "https://i.ibb.co/DLxGJ2b/image-40.png" },
+    {"name": "Chanachur","price" :10,"weight" :"100gm","description":"fdg" ,"img": "https://i.ibb.co/xG9rQKR/image-39.png" },
+    {"name": "Lifebuoy","price" :50,"weight" :"300gm","description":"fdg" ,"img": "https://i.ibb.co/wyLKGcs/image-38.png" },
+    {"name": "MR Twist","price" :15,"weight" :"50gm","description":"fdg" ,"img": "https://i.ibb.co/37wRrNf/image-37.png" },
+    {"name": "Omera LPG","price" :1200,"weight" :"12kg","description":"fdg" ,"img": "https://i.ibb.co/yBwrGjB/image-36.png" },
+    {"name": "Rice","price" :1000,"weight" :"20kg","description":"fdg" ,"img": "https://i.ibb.co/44KQMks/image-35.png" },
+    {"name": "Onion","price" :50,"weight" :"1kg","description":"fdg" ,"img": "https://i.ibb.co/TmVsYHS/image-34.png" },
+    {"name": "Tejpata","price" :20,"weight" :"20gm","description":"fdg" ,"img": "https://i.ibb.co/ctMwvJr/image-33.png" }
+]

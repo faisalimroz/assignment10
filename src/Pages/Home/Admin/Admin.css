@@ -1,0 +1,17 @@
+
+.manage{
+    background-color:rgba(48, 148, 48, 0.919);
+    height: 1200px;
+}
+.manage-product{
+    width: 102.5%;
+    
+
+}
+.manage-product:hover{
+    background-color:rgba(14, 70, 14, 0.919) ;
+}
+.manage-product img{
+    width: 20px;
+    height: 20px;
+}

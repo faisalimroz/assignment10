@@ -1,0 +1,9 @@
+.add-form{
+    background-color: aliceblue;
+}
+.submit-btn{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(67, 228, 137);
+    
+}
